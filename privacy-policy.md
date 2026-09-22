@@ -91,7 +91,7 @@ Ma’lumotlar faqat quyidagi hollarda uzatilishi mumkin:
 
 Har bir foydalanuvchi quyidagi huquqlarga ega:
 - O‘zining shaxsiy ma’lumotlari bilan tanishish va noaniqliklar aniqlanganda ularni tuzatishni talab qilish;
-- **Hisobni va shaxsiy ma’lumotlarni o‘chirish:** Foydalanuvchi ilova sozlamalari orqali ("Profil" -> "Hisobni o‘chirish") yoki rasmiy qo‘llab-quvvatlash xizmati (`mvapd@iiv.uz` yoki ko‘rsatilgan aloqa vositalari) orqali o‘z hisobini va unga bog‘langan barcha shaxsiy ma’lumotlarni o‘chirishni so‘rash huquqiga ega.
+- **Hisobni va shaxsiy ma’lumotlarni o‘chirish:** Foydalanuvchi ilova sozlamalari orqali ("Profil" -> "Hisobni o‘chirish") yoki rasmiy qo‘llab-quvvatlash xizmati (`mvafrbb@iiv.uz` yoki ko‘rsatilgan aloqa vositalari) orqali o‘z hisobini va unga bog‘langan barcha shaxsiy ma’lumotlarni o‘chirishni so‘rash huquqiga ega.
 - Qonun hujjatlarida arxivlash va hisobot yuritish uchun belgilangan majburiy yozuvlardan tashqari barcha ma’lumotlar 30 kun ichida qaytarib bo‘lmas tarzda o‘chiriladi.
 
 ---
@@ -112,7 +112,7 @@ Mazkur Maxfiylik siyosatiga o‘zgartirish va qo‘shimchalar kiritilishi mumkin
 
 Savollar, takliflar yoki ma’lumotlarni o‘chirish bo‘yicha so‘rovlar uchun:
 - **Tashkilot:** "PASSPORT-VISA" (AVIR) xizmati
-- **Elektron pochta:** mvapd@iiv.uz *(yoki kompaniya rasmiy pochtasi)*
+- **Elektron pochta:** mvafrbb@iiv.uz *(yoki kompaniya rasmiy pochtasi)*
 - **Telefon:** +998 71 231 37 98 *(yoki rasmiy call-markaz)*
 - **Manzil:** O‘zbekiston Respublikasi, Toshkent shahri
 
@@ -204,7 +204,7 @@ Data is shared only in the following legitimate circumstances:
 
 Users have full control over their personal information:
 - The right to inspect and update inaccurate personal information;
-- **Account Deletion:** Users can request deletion of their account and associated personal data directly within the app settings (**Profile > Delete Account**) or by emailing our data privacy team at `mvapd@iiv.uz`.
+- **Account Deletion:** Users can request deletion of their account and associated personal data directly within the app settings (**Profile > Delete Account**) or by emailing our data privacy team at `mvafrbb@iiv.uz`.
 - Upon verification, all non-statutory personal data will be permanently purged from active systems within 30 days.
 
 ---
@@ -225,7 +225,7 @@ We may periodically update this Privacy Policy. The latest version will always b
 
 For questions, feedback, or data deletion inquiries:
 - **Entity:** "PASSPORT-VISA" (AVIR Mobile Services)
-- **Email:** mvapd@iiv.uz
+- **Email:** mvafrbb@iiv.uz
 - **Phone:** +998 71 231 37 98
 - **Location:** Tashkent, Republic of Uzbekistan
 
