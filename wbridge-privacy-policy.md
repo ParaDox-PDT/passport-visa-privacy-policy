@@ -5,7 +5,15 @@ Effective: 5 November 2026
 
 ## What Wbridge does
 
-Wbridge (uz.wbridge.pdt) is an independent Android utility. When you choose it to open or share a supported location link, or press Open in WB Taxi, it passes that destination to the installed WB Taxi application. It does not book a ride.
+Wbridge (uz.wbridge.pdt) is an independent Android location-link bridge designed to pass shared destination coordinates to compatible taxi applications. It is a utility, not a taxi operator, booking platform, payment service or official client of a taxi provider. It does not book rides or process payments.
+
+## Currently supported taxi application
+
+This version supports WB Taxi only, through the installed Android package uz.wildberries.taxi.client and its destination deep link. Other taxi applications are not currently supported. The general taxi-app description explains the purpose of Wbridge; it does not claim that all taxi apps work or promise future integrations. When you select Wbridge to open or share a supported location, or press Open in WB Taxi, the destination is sent to that supported application.
+
+## Independence and third-party names
+
+Wbridge is not affiliated with, sponsored by, endorsed by or operated by WB Taxi, Wildberries, Telegram, Google, OpenStreetMap or any taxi provider. Third-party names identify compatibility or the source of a link only; no official status or partnership is claimed. Third-party trademarks and service names belong to their respective owners.
 
 ## Information processed on your device
 
@@ -13,7 +21,7 @@ Wbridge reads only the location link or text you send to it, or coordinates you 
 
 ## Destination handoff and third parties
 
-At your request, Wbridge sends the destination coordinates to WB Taxi using an Android intent. WB Taxi is a separate application with its own privacy policy and practices. If you choose Open Google Play, Android opens the WB Taxi listing through a compatible store or browser. Wbridge does not include WB Taxi, Telegram or map-provider SDKs and does not control those applications.
+At your request, Wbridge sends the selected destination coordinates through an Android intent to the supported taxi application; in this version that application is WB Taxi. The receiving taxi application is independently operated and has its own privacy policy, terms, availability and practices. If you choose Open Google Play, Android opens the supported taxi application listing through a compatible store or browser. Wbridge does not include taxi-provider, Telegram or map-provider SDKs and does not control those applications. Check the destination in the receiving app before ordering a ride. Destination display, service availability, fares and ride fulfilment are controlled by the taxi provider.
 
 ## No developer collection or tracking
 
